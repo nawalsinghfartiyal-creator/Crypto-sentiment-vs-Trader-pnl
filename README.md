@@ -61,13 +61,13 @@ The analysis was conducted using:
 
 📈 Key Insights
 
-  . Market sentiment significantly impacts trading profitability and volatility
+      . Market sentiment significantly impacts trading profitability and volatility
 
-  . Greed markets generally provide more stable average profits
+      . Greed markets generally provide more stable average profits
 
-  . Fear markets introduce higher volatility and risk
+      . Fear markets introduce higher volatility and risk
 
-  . Despite higher risk, Fear markets can still offer selective opportunities for experienced traders     
+      . Despite higher risk, Fear markets can still offer selective opportunities for experienced traders     
 
 
 
