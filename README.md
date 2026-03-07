@@ -49,11 +49,12 @@ The analysis was conducted using:
 
   2. Profit Distribution Across Market Conditions:
         To better understand risk and variability, a boxplot was used to analyze the distribution of PnL values under Fear and Greed              conditions.This visualization highlights differences in:
+
          ->  The spread of profits and losses
          ->  The presence of outliers
          ->  The overall volatility of trading results
          ->  The distribution suggests that Fear markets tend to have wider variability, indicating increased uncertainty and higher risk   
-  3. Daily PnL Trends by Market Sentiment
+  4. Daily PnL Trends by Market Sentiment
        A time-series visualization was used to track daily total trader PnL across different sentiment classifications.By observing these        trends over time, the analysis reveals how profitability fluctuates with shifts in market sentiment. Fear periods often show              larger swings in returns, while Greed periods appear to have more stable patterns.
 
 
@@ -67,4 +68,10 @@ The analysis was conducted using:
   . Fear markets introduce higher volatility and risk
 
   . Despite higher risk, Fear markets can still offer selective opportunities for experienced traders     
+
+
+
+🧠 Conclusion
+
+Greed markets provide a more supportive environment for average profitability, while Fear markets present higher risk and volatility but also selective opportunities for skilled traders.  
      
