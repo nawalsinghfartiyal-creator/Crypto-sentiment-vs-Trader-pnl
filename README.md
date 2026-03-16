@@ -45,18 +45,21 @@ The analysis was conducted using:
 ## 🔍 Exploratory Data Analysis
 
   1. **_Average PnL by Market Sentiment_**:
-         A bar chart was created to compare the average closed profit and loss (PnL) between Fear and Greed market conditions. This                visualization provides a clear comparison of how profitability differs depending on the prevailing market sentiment.The analysis          shows that trading outcomes tend to be more favorable on average during Greed market phases, suggesting that bullish sentiment            may support more consistent profits.
 
-  2. **_Profit Distribution Across Market Conditions_**:
-        To better understand risk and variability, a boxplot was used to analyze the distribution of PnL values under Fear and Greed              conditions.This visualization highlights differences in:
+     A bar chart was created to compare the average closed profit and loss (PnL) between Fear and Greed market conditions. This                visualization provides a clear comparison of how profitability differs depending on the prevailing market sentiment.The analysis          shows that trading outcomes tend to be more favorable on average during Greed market phases, suggesting that bullish sentiment            may support more consistent profits.
+
+  3. **_Profit Distribution Across Market Conditions_**:
+
+     To better understand risk and variability, a boxplot was used to analyze the distribution of PnL values under Fear and Greed              conditions.This visualization highlights differences in:
 
      - The spread of profits and losses
      - The presence of outliers
      - The overall volatility of trading results
      - The distribution suggests that Fear markets tend to have wider variability, indicating increased uncertainty and higher risk   
   
-  4. **_Daily PnL Trends by Market Sentiment_**:
-       A time-series visualization was used to track daily total trader PnL across different sentiment classifications.By observing these        trends over time, the analysis reveals how profitability fluctuates with shifts in market sentiment. Fear periods often show              larger swings in returns, while Greed periods appear to have more stable patterns.
+  5. **_Daily PnL Trends by Market Sentiment_**:
+
+     A time-series visualization was used to track daily total trader PnL across different sentiment classifications.By observing these        trends over time, the analysis reveals how profitability fluctuates with shifts in market sentiment. Fear periods often show              larger swings in returns, while Greed periods appear to have more stable patterns.
 
 
 
